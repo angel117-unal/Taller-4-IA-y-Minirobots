@@ -40,3 +40,6 @@ Este código simula un entorno evolutivo donde el robot mejora progresivamente s
 Archivos:  Archivo: [PG_máquina_despulpadora_de_café.ipynb](./PG_máquina_despulpadora_de_café.ipynb)
 
 Descripción: Este código implementa un algoritmo de programación genética (PG) para optimizar fórmulas matemáticas que predicen la velocidad ideal basada en parámetros como el peso y los granos. Se define una población inicial de árboles de fórmulas construidos a partir de funciones primitivas (add, sub, mul, div) y terminales (peso, granos, constantes). Las fórmulas se evalúan en un contexto específico, y su desempeño (fitness) se mide comparando las predicciones con valores ideales. El algoritmo evoluciona la población a través de selección, cruzamiento y mutación durante varias generaciones, con el objetivo de encontrar la fórmula más precisa.
+
+### Notas adicionales:
+Este repositorio contiene la resolución detallada de los puntos del taller 4 sobre programación genética y conceptos básicos. Cada programa ha sido documentado con descripciones claras para facilitar su comprensión y replicación.
